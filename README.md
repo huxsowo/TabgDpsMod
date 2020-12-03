@@ -1,4 +1,4 @@
-# TabgDpsMod
+# TABG DPS Mod
 A Totally Accurate Battlegrounds mod that adds a DPS counter to the "Damage Analyzer" attachment.
 
 ## Installing
