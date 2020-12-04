@@ -1,5 +1,8 @@
 # TABG DPS Mod
-A Totally Accurate Battlegrounds mod that adds a DPS counter to the "Damage Analyzer" attachment.
+A Totally Accurate Battlegrounds mod that adds a DPS counter. Meant to be used only in the firing range.
+
+## IMPORTANT
+The DPS counter will only work when using a gun with the "Damage Analyzer" attachment. 
 
 ## Installing
 1. Download the Assembly-CSharp.dll file
@@ -26,4 +29,4 @@ A Totally Accurate Battlegrounds mod that adds a DPS counter to the "Damage Anal
 
 2. Equip any weapon you want to test with and put the "Damage Analyzer" attachment on it.
 
-3. That's all! Your DPS should appear next to the hitmarker whenever you damage an enemy.
+3. That's all! Your DPS will appear next to the hitmarker whenever you damage an enemy. The DPS Counter on your healthbar will also show your DPS now.
